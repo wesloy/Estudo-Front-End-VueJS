@@ -1,4 +1,4 @@
-# sentinella
+# Watch Tower
 
 ## Project setup
 ```
